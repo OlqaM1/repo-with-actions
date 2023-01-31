@@ -1,7 +1,6 @@
 name: Pierwszy workflow
 
 on: [push]
-env: zmienna2
 
 jobs:
   pierszy-job:
